@@ -55,4 +55,5 @@ Other observations:
 1 million elements does not work as I have not implemented a heap, algorithms with n^2 complexity will freeze and quick sort can break because of the rand() function.
 For sorting a list with unknown number of elements, the list needs to be implemented with <vector>.
 Have not tried sorting with strings.
+For floats I have not been experimenting farther than just printing an array of 10k elements and checking if it is sorted.
 ------
